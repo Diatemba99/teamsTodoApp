@@ -6,7 +6,7 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!--favicon-->
-	<link rel="icon" href="./page/assets/images/favicon-32x32.png" type="image/" />
+	<link rel="icon" href="./page/assets/images/favicon-32x32.png" type="image/NIMBA.png" />
 	<!--plugins-->
 	<link href="./page/assets/plugins/simplebar/css/simplebar.css" rel="stylesheet" />
 	<link href="./page/assets/plugins/perfect-scrollbar/css/perfect-scrollbar.css" rel="stylesheet" />
